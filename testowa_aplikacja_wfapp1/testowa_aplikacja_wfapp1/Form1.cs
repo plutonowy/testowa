@@ -47,7 +47,7 @@ namespace testowa_aplikacja_wfapp1
         {
             
             // a tutaj ramzes ;)
-            //
+            // plkuto
             //cost acostam 
             
         }
