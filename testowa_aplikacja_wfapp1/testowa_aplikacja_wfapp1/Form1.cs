@@ -49,6 +49,7 @@ namespace testowa_aplikacja_wfapp1
             // a tutaj ramzes ;)
             // plkuto
             //cost acostam 
+            //dodaje kolejne zmiany w tym pliku i proboje przez konsole to ogarnac
             
         }
     }
