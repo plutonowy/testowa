@@ -14,6 +14,8 @@ namespace testowa_aplikacja_wfapp1
         [STAThread]
         static void Main()
         {
+            //PLUTO TU BYL
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
