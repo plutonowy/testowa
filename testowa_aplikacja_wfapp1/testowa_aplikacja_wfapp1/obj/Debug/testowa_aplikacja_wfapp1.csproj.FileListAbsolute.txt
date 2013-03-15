@@ -8,3 +8,5 @@ D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\D
 D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.csproj.GenerateResource.Cache
 D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.exe
 D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.pdb
+E:\DOCS\PROGRAMOWANIE\Github\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.exe
+E:\DOCS\PROGRAMOWANIE\Github\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.pdb

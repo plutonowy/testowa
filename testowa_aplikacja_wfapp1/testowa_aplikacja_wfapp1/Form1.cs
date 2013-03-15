@@ -42,5 +42,10 @@ namespace testowa_aplikacja_wfapp1
         {
             utworzPola(10,10);
         }
+
+        private void gRAToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //tutaj zmiana - pluto 
+        }
     }
 }

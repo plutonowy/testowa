@@ -51,6 +51,7 @@
             this.gRAToolStripMenuItem.Name = "gRAToolStripMenuItem";
             this.gRAToolStripMenuItem.Size = new System.Drawing.Size(42, 20);
             this.gRAToolStripMenuItem.Text = "GRA";
+            this.gRAToolStripMenuItem.Click += new System.EventHandler(this.gRAToolStripMenuItem_Click);
             // 
             // nowaGraToolStripMenuItem
             // 
