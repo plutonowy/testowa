@@ -1,2 +1,10 @@
 D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\bin\Debug\testowa_aplikacja_wfapp1.exe.config
 E:\DOCS\PROGRAMOWANIE\Github\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\bin\Debug\testowa_aplikacja_wfapp1.exe.config
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\bin\Debug\testowa_aplikacja_wfapp1.exe
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\bin\Debug\testowa_aplikacja_wfapp1.pdb
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.csprojResolveAssemblyReference.cache
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.Form1.resources
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.Properties.Resources.resources
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.csproj.GenerateResource.Cache
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.exe
+D:\Ramzes\GitHub\testowa\testowa_aplikacja_wfapp1\testowa_aplikacja_wfapp1\obj\Debug\testowa_aplikacja_wfapp1.pdb

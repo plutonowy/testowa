@@ -16,5 +16,31 @@ namespace testowa_aplikacja_wfapp1
         {
             InitializeComponent();
         }
+
+        private Button[,] pola;
+
+        private void utworzPola(int x, int y)
+        {
+            pola = new Button[x, y];
+
+            for (int i = 0; i < x; i++)
+                for (int j = 0; j < y; j++)
+                {
+                    pola[i, j] = new Button();
+                    pola[i, j].Text = "";
+                    pola[i, j].Width = 20;
+                    pola[i, j].Height = 20;
+                    pola[i, j].Left = 5 + i * pola[i, j].Width;
+                    pola[i, j].Top = 5 + j * pola[i, j].Height;
+                    pola[i, j].Parent = this;
+                   // pola[i, j].Click += new EventHandler(Form1_Click);
+                   // pola[i, j].Tag = new int[] { i, j };
+                }
+        }
+
+        private void nowaGraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            utworzPola(10,10);
+        }
     }
 }
