@@ -40,12 +40,16 @@ namespace testowa_aplikacja_wfapp1
 
         private void nowaGraToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            utworzPola(10,10);
+            utworzPola(10,11);
         }
 
         private void gRAToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //tutaj zmiana - pluto 
+            
+            // a tutaj ramzes ;)
+            //
+            //
+            
         }
     }
 }
